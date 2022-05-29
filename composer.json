@@ -14,7 +14,11 @@
     ],
     "require": {
         "twbs/bootstrap": "^5.1"
+    },
+    "autoload": {
+        "files": [
+            "class-import-file.php"
+        ]
     }
-
 
 }
