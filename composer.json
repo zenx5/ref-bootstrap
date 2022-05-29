@@ -1,6 +1,7 @@
 {
     "name": "zenx5/ref-bootstrap",
     "description": "Package para hacer referencia a los archivos y clases de bootstrap en php",
+    "version": "1.0",
     "type": "package",
     "license": "MIT",
     "authors": [
@@ -11,7 +12,7 @@
             "role": "Backend Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {
         "twbs/bootstrap": "^5.1"
     }
